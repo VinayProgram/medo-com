@@ -2,4 +2,5 @@ packages:
   - 'frontend/components'
   - 'frontend/medo-vendors'
   - 'frontend/medo-users'
-  - 'backend/apps'
+  - 'backend/database'
+  - 'backend/vendor-login'
